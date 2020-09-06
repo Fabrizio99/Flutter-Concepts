@@ -122,3 +122,7 @@ class NumberCreator{
   Stream get stream => _streamController.stream;
 }
 ```
+
+## Referencias
+- https://www.youtube.com/watch?v=nQBpOIHE4eE
+- https://medium.com/flutter-community/flutter-stream-basics-for-beginners-eda23e44e32f
